@@ -46,6 +46,9 @@
   <a href="https://www.linkedin.com/in/deepika-srinivasan272003/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="42" alt="linkedin logo"  />
   </a>
+   <a href="https://medium.com/@deepikas.workemail" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="54" height="42" alt="medium logo"  />
+  </a>
 </div>
 
 ###
