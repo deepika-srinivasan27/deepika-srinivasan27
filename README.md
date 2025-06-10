@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">Linkedin Profile:</h3>
+<h3 align="left">Social:</h3>
 
 ###
 
